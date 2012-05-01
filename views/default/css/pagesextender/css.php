@@ -10,3 +10,11 @@
  * 
  */
 ?>
+
+div.pages-custom-type-tutorial {
+	border: 2px solid blue;
+}
+
+div.pages-custom-type-essay {
+	border: 2px solid green;
+}

@@ -10,9 +10,13 @@
  * 
  */
 $english = array(
+	// General
+	'pages:page_type' => 'Page Type',
+	
 	// Extended page types
-	'page-extender:type:essay' => 'Essay',
-	'page-extender:type:tutorial' => 'Tutorial',
+	'pages-extender:type:none' => 'None',
+	'pages-extender:type:essay' => 'Essay',
+	'pages-extender:type:tutorial' => 'Tutorial',
 
 );
 
